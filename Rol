@@ -1,0 +1,51 @@
+.doa-rol {
+  margin: 0 auto;
+  width: 400px;
+  padding: 50px;
+  background: #030303;
+  border: 0px solid #0d0d0d;
+  text-align: center;
+}
+.doa-rol .d-tit {
+  font-family: "Enchanted";
+  font-size: 25px;
+  letter-spacing: -1px;
+  text-transform: lowercase;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 120%;
+}
+.doa-rol .d-tit span {
+  color: var(--accent);
+}
+.doa-rol .notes {
+  font-family: "Varela Round", sans-serif;
+  font-size: 6px;
+  letter-spacing: 1px;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #777;
+}
+.doa-rol .notes i {
+  font-size: 6px;
+  color: var(--accent) !important;
+}
+.doa-rol .txt {
+  width: 400px;
+  background: #030303;
+  font-family: Arial;
+  font-size: 12px;
+  padding: 0px;
+  line-height: 150%;
+  text-align: justify;
+}
+.doa-rol .txt b {
+  color: var(--accent);
+  font-style: bold;
+}
+.doa-rol .txt strong {
+  color: var(--accent);
+  font-style: bold;
+}
+@import url("https://dl.dropbox.com/s/05u0yvsettdvjp4/Enchanted%20Land.otf");
